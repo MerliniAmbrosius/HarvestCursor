@@ -3,4 +3,4 @@
 
 May collecting data be as joyful as a bountiful harvest.
 
-!HarvestCursor](InstallationGuide.png)
+![HarvestCursor](InstallationGuide.png)
